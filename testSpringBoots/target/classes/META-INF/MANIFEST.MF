@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: testSpringBoots
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Chaowaa
+Implementation-Vendor-Id: testSpringBoots
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
